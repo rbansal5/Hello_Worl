@@ -1,2 +1,2 @@
-# Hello_Worl
-First Repo
+# Hello_World
+First Repository, new to github
